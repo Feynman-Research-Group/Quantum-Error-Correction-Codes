@@ -39,5 +39,5 @@ The implementation of the Surface Code in this repository relies on the concept 
 
 ### References
 This project was designed and implemented based on the study of the following papers/articles:
-1.  *[Quantum Error Correction: An Introductory Guide] - [arXiv:1907.11157]*
-2.  *[Surface codes: Towards practical large-scale quantum computation] - [arXiv:1208.0928]*
+1.  *Quantum Error Correction: An Introductory Guide - https://arxiv.org/abs/1907.11157*
+2.  *Surface codes: Towards practical large-scale quantum computation - https://arxiv.org/abs/1208.0928*
